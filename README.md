@@ -4,6 +4,9 @@
 
 ### 🫶🏻 Welcome to Hyunjoo's Github Space 🍋
 <p> 👩🏻‍💻 I'm a Front-end Developer 🇰🇷 and i'm a Korean </p>
+👇🏻 🤓 👇🏻 <br/>
+<img src="https://img.shields.io/badge/ohjoo1993@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<a href="https://velog.io/@ohjoo1130"><img src="https://img.shields.io/badge/My Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   
 <hr>
 
