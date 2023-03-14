@@ -4,7 +4,7 @@
 
 ### 🫶🏻 Welcome to Hyunjoo's Github Space 🍋
 <p> 👩🏻‍💻 I'm a Front-end Developer 🇰🇷 and i'm a Korean </p>
-
+  
 <hr>
 
 ### ✨ I'm Using ...
@@ -23,19 +23,32 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </span>
-
-<!--
-**hyunjoo1130/hyunjoo1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<hr>
+  
+### 🌝 I am ...
+  
+<div align="left">
+  
+```JavaScript
+import My Life from 'Jesus Christ'
+import WorkingForHuman from 'My Motto'
+import South Korea from 'Nationality'
+  
+const aboutMe = {
+    name: "HyunJoo OH",
+    sex: "Female",
+    birth: "30th November",
+    favorite: [
+      french, sushi, ceramics, The devil wears PRADA, ZzangGoo, chocolate ...     
+  ],
+    personality: "outgoing and energizer",
+    career: "I was a Web-designer for 2 years"
+}
+```
+  
 </div>
+  
+</div>
+
+<!-- ## 🏃🏻‍♀️ I'm a developer who works for people 🔥 -->
