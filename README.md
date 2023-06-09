@@ -49,9 +49,9 @@ const aboutMe = {
     sex: "Female",
     birth: "30th November",
     favorite: [
-      french, sushi, ceramics, The devil wears PRADA, ZzangGoo, chocolate ...     
+      french, sushi, ceramics, The devil wears PRADA, chocolate ...     
   ],
-    personality: "outgoing and energizer",
+    personality: "outgoing and prudent",
     career: "I was a Web-designer for 2 years"
 }
 ```
